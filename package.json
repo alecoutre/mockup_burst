@@ -1,17 +1,8 @@
 {
-  "name": "carolina-react-admin-dashboard-free",
+  "name": "burst_license",
   "version": "1.0.0",
   "title": "Burst License",
-  "homepage": "https://demo.uifort.com/carolina-react-admin-dashboard-free",
-  "description": "This free React admin template is powered by Material-UI components framework and features a clean and fresh design following Google&#39;s Material Design specifications.",
-  "author": {
-    "name": "UiFort.com",
-    "url": "https://uifort.com"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/uifort/carolina-react-admin-dashboard-free"
-  },
+  "homepage": "/burst_webapp",
   "dependencies": {
     "redux": "4.0.5",
     "react-dom": "16.12.0",
